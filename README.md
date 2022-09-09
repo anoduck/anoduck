@@ -22,7 +22,8 @@ Quack, Quack! (or coin, coin!)
 
 Here are some developers who I found to be extremely polite and generous.
 
-- [leoarch](https://github.com/leoarch)
+- [leo-arch](https://github.com/leo-arch)
+- [bullshark](https://github.com/bullshark)
 
 ### Daily Drivers
 
