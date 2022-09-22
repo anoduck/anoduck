@@ -2,12 +2,11 @@
 
 ## Anoduck: The Anonymous Duck  
 
-Quack, Quack!  
-(or coin, coin!)  
+*I stand with freedom of speech and the free exchange of ideas within the market place of the mind.*
 
 ----------
 
-_*This is still a work in progress*_  
+_This will be a continual work in progress_  
 
 ### What I do:  
 
@@ -26,6 +25,7 @@ Here are some developers who I found to be polite and generous.
 - [leo-arch](https://github.com/leo-arch)  
 - [bullshark](https://github.com/bullshark)  
 - [kovidgoyal](https://github.com/kovidgoyal)  
+- [deepbluev7](https://github.com/deepbluev7)  
 
 ### Daily Drivers  
 
@@ -33,7 +33,9 @@ Here are some projects I use in my daily life.
 
 - Zsh  
 - Kitty  
+- EMACS  
 - org-mode  
+- Oh-my-zsh  
 
 ### Developmental Principles  
 
