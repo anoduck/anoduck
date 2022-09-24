@@ -2,7 +2,7 @@
 
 ## Anoduck: The Anonymous Duck  
 
-*I stand with freedom of speech and the free exchange of ideas within the market place of the mind.*
+*I support freedom of speech, and the free exchange of ideas within the market place of one's mind.*
 
 ----------
 
@@ -34,14 +34,14 @@ Here are some projects I use in my daily life.
 - Zsh  
 - Kitty  
 - EMACS  
-- org-mode  
-- Oh-my-zsh  
+- Org-Mode  
+- Oh-My-Zsh  
 
 ### Developmental Principles  
 
 Here are some developmental principles I believe in.  
 
-- Stop using pay for use Api-Keys, they are exclusionary.  
-- Say no to Discord, use element instead.  
-- Avoid Linux Elitism, BSD exists.  
+- Pay for use Api-Keys prevent access to technology and thus technological innovation.  
+- Discord is closed source and has a terrible reputation, use element instead.  
+- Linux Elitism is in poor taste. UNIX, BSD, and other open source operating systems exist.  
 - Avoid "Not my problem" -ism.  
