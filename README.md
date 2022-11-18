@@ -1,47 +1,74 @@
-![Banner](me.svg)  
+![Banner](me.svg)
 
-## Anoduck: The Anonymous Duck  
+## Anoduck: The Anonymous Duck
 
-*I support freedom of speech, and the free exchange of ideas within the market place of one's mind.*
+*I support freedom of speech, and the free exchange of ideas within the marketplace of one's mind.*
 
 ----------
 
-_This will be a continual work in progress_  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoduck)](https://github.com/anuraghazra/github-readme-stats)
 
-### What I do:  
+----------
 
-- Scrapers of all types and varieties  
-- OSINT Recon  
-- Social Engineering  
-- Photo Scraping  
-- Org Mode  
-- OpenBSD  
-- Agricultural Technology  
+_This will be a continual work in progress_
 
-### Awesome Developers  
+### What I do:
 
-Here are some developers who I found to be polite and generous.  
+- Scrapers of all types and varieties
+- System Administration
+- OSINT Recon
+- Social Engineering
+- Photo Scraping
+- Org Mode
+- OpenBSD
+- Linux
+- Agricultural Technology
 
-- [leo-arch](https://github.com/leo-arch)  
-- [bullshark](https://github.com/bullshark)  
-- [kovidgoyal](https://github.com/kovidgoyal)  
-- [deepbluev7](https://github.com/deepbluev7)  
+### Awesome Developers
 
-### Daily Drivers  
+Here are some developers who I found to be polite and generous.
 
-Here are some projects I use in my daily life.  
+- [leo-arch](https://github.com/leo-arch)
+- [mudler](https://github.com/mudler)
+- [bullshark](https://github.com/bullshark)
+- [kovidgoyal](https://github.com/kovidgoyal)
+- [deepbluev7](https://github.com/deepbluev7)
+- [jcjgraf](https://github.com/jcjgraf)
+- [graniet 75](https://github.com/graniet)
+- [ellisonleao](https://github.com/ellisonleao)
+- [Iron-E](https://github.com/Iron-E)
+- [samschott](https://github.com/samschott)
+- [mkeeter](https://github.com/mkeeter)
+- [shenwei356](https://github.com/shenwei356)
 
-- Zsh  
-- Kitty  
-- EMACS  
-- Org-Mode  
-- Oh-My-Zsh  
+### Daily Drivers
 
-### Developmental Principles  
+Here are some projects I use in my daily life.
 
-Here are some developmental principles I believe in.  
+- Zsh
+- Kitty
+- EMACS
+- Helix
+- NeoVim
+- Straight.el
+- Org-Mode
+- Oh-My-Zsh
 
-- Pay for use Api-Keys prevent access to technology and thus technological innovation.  
-- Discord is closed source and has a terrible reputation, use element instead.  
-- Linux Elitism is in poor taste. UNIX, BSD, and other open source operating systems exist.  
-- Avoid "Not my problem" -ism.  
+### Developmental Principles
+
+Here are some developmental principles I believe in.
+
+- Pay for use Api-Keys prevent access to technology and thus technological innovation.
+- Discord is closed source and has a terrible reputation, use element instead.
+- Linux Elitism is in poor taste. UNIX, BSD and other open source operating systems exist.
+- Avoid "Not my problem" -ism.
+
+-----
+
+### Sources
+
+Sources for creating your own awesome GithHub Readme:
+
+- [Awesome GitHub Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
