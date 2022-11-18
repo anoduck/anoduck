@@ -6,7 +6,9 @@
 
 ----------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoduck)](https://github.com/anuraghazra/github-readme-stats)
+[![Anoduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoduck&show_icons=true&theme=radical)](https://github.com/anoduck)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact)](https://github.com/anoduck)
 
 ----------
 
