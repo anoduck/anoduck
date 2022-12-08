@@ -60,6 +60,7 @@ Here are some projects I use in my daily life.
 - Straight.el
 - Org-Mode
 - Oh-My-Zsh
+- [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 
 ### Developmental Principles
 
@@ -67,8 +68,9 @@ Here are some developmental principles I believe in.
 
 - Pay for use Api-Keys prevent access to technology and thus technological innovation.
 - Discord is closed source and has a terrible reputation, use element instead.
-- Linux Elitism is in poor taste. UNIX, BSD and other open source operating systems exist.
+- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and other open source operating systems exist.
 - Avoid "Not my problem" -ism.
+- Injecting political opinion into computater science stunts growth, limits innovation, and excludes diversity.
 
 -----
 
@@ -79,3 +81,4 @@ Sources for creating your own awesome GithHub Readme:
 - [Awesome GitHub Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Wakatime Readme](https://github.com/anmol098/waka-readme-stats)
