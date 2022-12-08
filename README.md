@@ -12,12 +12,13 @@
 
 
 <!--START_SECTION:waka-->
+<!--waka-->
 <!--END_SECTION:waka-->
 
 
 ----------
 
-_This will be a continual work in progress_
+_As everything is in a state of impermanence, this too will change._
 
 ### What I do:
 
@@ -52,15 +53,17 @@ Here are some developers who I found to be polite and generous.
 
 Here are some projects I use in my daily life.
 
-- Zsh
-- Kitty
-- EMACS
-- Helix
-- NeoVim
-- Straight.el
-- Org-Mode
-- Oh-My-Zsh
+- [Zsh](https://www.zsh.org/)
+- [Kitty](https://sw.kovidgoyal.net/kitty)
+- [EMACS](https://www.gnu.org/software/emacs/)
+- [Helix](https://helix-editor.com/)
+- [NeoVim](https://neovim.io/)
+- [Straight.el](https://github.com/radian-software/straight.el)
+- [Org-Mode](https://orgmode.org)
+- [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh/)
 - [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+
+----
 
 ### Developmental Principles
 
@@ -69,8 +72,8 @@ Here are some developmental principles I believe in.
 - Pay for use Api-Keys prevent access to technology and thus technological innovation.
 - Discord is closed source and has a terrible reputation, use element instead.
 - Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and other open source operating systems exist.
-- Avoid "Not my problem" -ism.
-- Injecting political opinion into computater science stunts growth, limits innovation, and excludes diversity.
+- Avoid "Not my problem"-ism.
+- Injecting politics into computater science is exclusionary and restrains innovation, not to forget, it limits diversity.
 
 -----
 
@@ -82,3 +85,4 @@ Sources for creating your own awesome GithHub Readme:
 - [GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Wakatime Readme](https://github.com/anmol098/waka-readme-stats)
+
