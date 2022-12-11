@@ -9,7 +9,7 @@
 
 [![Anoduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoduck&show_icons=true&theme=radical)](https://github.com/anoduck)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact&theme=radical&hide=c,perl,ruby,html&langs_count=7)](https://github.com/anoduck)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact&theme=radical&hide=c,perl,javascript,css,makefile,m4,ruby,html&langs_count=7)](https://github.com/anoduck)
 
 
 <!--START_SECTION:waka-->
@@ -23,7 +23,7 @@ Other        1 hr 3 mins     █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)
+*You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)*
 
 ----------
 
