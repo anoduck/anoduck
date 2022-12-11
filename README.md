@@ -12,7 +12,14 @@
 
 
 <!--START_SECTION:waka-->
-<!--waka-->
+
+```text
+Python       13 hrs          █████████████▒░░░░░░░░░░░   53.72 %
+Org          6 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+JavaScript   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Other        1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+```
+
 <!--END_SECTION:waka-->
 
 
