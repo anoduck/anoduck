@@ -1,8 +1,9 @@
 ![Banner](me.svg)
 
-## Anoduck: The Anonymous Duck
+## Anoduck: The Anonymous Duck :trollface:
 
-*I support freedom of speech, and the free exchange of ideas within the marketplace of one's mind.*
+:stars: *I support freedom of speech, and the free exchange of ideas within the marketplace of one's mind.*
+:stars:
 
 ----------
 
@@ -22,22 +23,25 @@ Other        1 hr 3 mins     █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)
 
 ----------
 
 _As everything is in a state of impermanence, this too will change._
 
+----------
+
 ### What I do:
 
-- Scrapers of all types and varieties
-- System Administration
-- OSINT Recon
-- Social Engineering
-- Photo Scraping
-- Org Mode
-- OpenBSD
-- Linux
-- Agricultural Technology
+- :satellite: Scrapers of all types and varieties
+- :godmode: System Administration
+- :footprints: OSINT Recon
+- :busts_in_silhouette: Social Engineering
+- :framed_picture: Photo Scraping
+- :unicorn: Org Mode
+- :blowfish: OpenBSD
+- :penguin: Linux
+- :deciduous_tree: Agricultural Technology
 
 ### Awesome Developers
 
@@ -78,9 +82,9 @@ Here are some developmental principles I believe in.
 
 - Pay for use Api-Keys prevent access to technology and thus technological innovation.
 - Discord is closed source and has a terrible reputation, use element instead.
-- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and other open source operating systems exist.
+- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and others exist.
 - Avoid "Not my problem"-ism.
-- Injecting politics into computater science is exclusionary and restrains innovation, not to forget, it limits diversity.
+- Injecting politics into computater science is exclusionary, restrains innovation, limits diversity.
 
 -----
 
@@ -92,4 +96,3 @@ Sources for creating your own awesome GithHub Readme:
 - [GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Wakatime Readme](https://github.com/anmol098/waka-readme-stats)
-
