@@ -23,7 +23,7 @@ Other        1 hr 3 mins     █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-*You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)*
+**You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)**
 
 ----------
 
