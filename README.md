@@ -1,6 +1,6 @@
 ![Banner](me.svg)
 
-## Anoduck: The Anonymous Duck :trollface:
+## :trollface: Anoduck: The Anonymous Duck :duck:
 
 :stars: *I support freedom of speech, and the free exchange of ideas within the marketplace of one's mind.*
 :stars:
@@ -43,6 +43,8 @@ _As everything is in a state of impermanence, this too will change._
 - :penguin: Linux
 - :deciduous_tree: Agricultural Technology
 
+----
+
 ### Awesome Developers
 
 Here are some developers who I found to be polite and generous.
@@ -59,6 +61,8 @@ Here are some developers who I found to be polite and generous.
 - [samschott](https://github.com/samschott)
 - [mkeeter](https://github.com/mkeeter)
 - [shenwei356](https://github.com/shenwei356)
+
+-----
 
 ### Daily Drivers
 
