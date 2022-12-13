@@ -1,9 +1,8 @@
 ![Banner](me.svg)
 
-## :trollface: Anoduck: The Anonymous Duck :duck:
+## :duck::duck: Anoduck: The Anonymous Duck :duck::duck:
 
-:stars: *I support freedom of speech, and the free exchange of ideas within the marketplace of one's mind.*
-:stars:
+:stars:*I support freedom of speech, and the free exchange of ideas within the marketplace of one's mind.*:stars:
 
 ----------
 
@@ -25,29 +24,29 @@ JavaScript     1 hr 13 mins    █▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-----------
+------------
 
-:point_right: :point_right: **You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)** :point_left: :point_left:
+:point_right::point_right::point_right::point_right: **You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)** :point_left::point_left::point_left::point_left:
 
-----------
+------------
 
 _As everything is in a state of impermanence, this too will change._
 
-----------
+------------
 
 ### What I do:
 
 - :satellite: Scrapers of all types and varieties
-- :godmode: System Administration
+- :nerd: System Administration
 - :footprints: OSINT Recon
 - :busts_in_silhouette: Social Engineering
-- :framed_picture: Photo Scraping
+- :camera: Photo Scraping
 - :unicorn: Org Mode
 - :blowfish: OpenBSD
 - :penguin: Linux
 - :deciduous_tree: Agricultural Technology
 
-----
+------------
 
 ### Developmental Principles
 
@@ -59,7 +58,7 @@ Here are some developmental principles I believe in.
 - Avoid "Not my problem"-ism.
 - Injecting politics into computater science is exclusionary, restrains innovation, limits diversity.
 
------
+------------
 
 ### Awesome Developers
 
@@ -79,7 +78,7 @@ Here are some developers who I found to be polite and generous.
 - [shenwei356](https://github.com/shenwei356)
 - [gorbit99](https://github.com/gorbit99)
 
------
+-------------
 
 ### Daily Drivers
 
@@ -95,7 +94,7 @@ Here are some projects I use in my daily life.
 - [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh/)
 - [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 
-----
+--------------
 
 ### Sources
 
