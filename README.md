@@ -25,8 +25,8 @@ Other        59 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-:point-right-tone2: :point-right-tone2: **You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)**
-:point_left_tone2: :point_left_tone2:
+:point-right: :point-right: **You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)**
+:point_left: :point_left:
 
 ----------
 
