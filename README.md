@@ -25,7 +25,7 @@ Other        59 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
---> **You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)**
+:point-right-tone2::point-right-tone2: **You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)** :point_left_tone2::point_left_tone2:
 
 ----------
 
@@ -46,6 +46,18 @@ _As everything is in a state of impermanence, this too will change._
 - :deciduous_tree: Agricultural Technology
 
 ----
+
+### Developmental Principles
+
+Here are some developmental principles I believe in.
+
+- Pay for use Api-Keys prevent access to technology and thus technological innovation.
+- Discord is closed source and has a terrible reputation, use element instead.
+- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and others exist.
+- Avoid "Not my problem"-ism.
+- Injecting politics into computater science is exclusionary, restrains innovation, limits diversity.
+
+-----
 
 ### Awesome Developers
 
@@ -82,18 +94,6 @@ Here are some projects I use in my daily life.
 - [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 
 ----
-
-### Developmental Principles
-
-Here are some developmental principles I believe in.
-
-- Pay for use Api-Keys prevent access to technology and thus technological innovation.
-- Discord is closed source and has a terrible reputation, use element instead.
-- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and others exist.
-- Avoid "Not my problem"-ism.
-- Injecting politics into computater science is exclusionary, restrains innovation, limits diversity.
-
------
 
 ### Sources
 
