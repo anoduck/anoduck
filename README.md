@@ -9,7 +9,7 @@
 
 [![Anoduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoduck&show_icons=true&theme=radical)](https://github.com/anoduck)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact&theme=radical&hide=c,perl,javascript,css,makefile,m4,ruby,html&langs_count=7)](https://github.com/anoduck)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact&theme=radical&hide=c,perl,css,makefile,m4,ruby,html&langs_count=7)](https://github.com/anoduck)
 
 
 <!--START_SECTION:waka-->
@@ -63,6 +63,7 @@ Here are some developers who I found to be polite and generous.
 - [samschott](https://github.com/samschott)
 - [mkeeter](https://github.com/mkeeter)
 - [shenwei356](https://github.com/shenwei356)
+- [gorbit99](https://github.com/gorbit99)
 
 -----
 
