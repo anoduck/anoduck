@@ -14,8 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Emacs Lisp   8 hrs 21 mins   ██████████▓░░░░░░░░░░░░░░   42.93 %
-Other        4 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
+Emacs Lisp   10 hrs 36 mins  █████████████▓░░░░░░░░░░░   54.27 %
+Other        2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
 ```
 
 <!--END_SECTION:waka-->
