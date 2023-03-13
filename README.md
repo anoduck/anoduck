@@ -14,9 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Emacs Lisp   12 hrs 57 mins  ███████████████▒░░░░░░░░░   61.84 %
-Markdown     1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Other        1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Emacs Lisp   12 hrs 1 min    ████████████▓░░░░░░░░░░░░   50.73 %
+Bash         3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+Markdown     2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Other        1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 ```
 
 <!--END_SECTION:waka-->
