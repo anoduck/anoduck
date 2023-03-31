@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       7 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   39.21 %
-Docker       2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-Other        1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Python       7 hrs 34 mins   ███████████░░░░░░░░░░░░░░   44.43 %
+Markdown     2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Other        1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
 ```
 
 <!--END_SECTION:waka-->
