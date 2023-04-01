@@ -34,7 +34,7 @@ _As everything is in a state of impermanence, this too will change._
 ### What I do:
 
 - :satellite: Scrapers of all types and varieties
-- :nerd: System Administration
+- :sunglasses: System Administration
 - :footprints: OSINT Recon
 - :busts_in_silhouette: Social Engineering
 - :camera: Photo Scraping
