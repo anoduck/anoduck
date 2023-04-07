@@ -67,8 +67,8 @@ Here are some developmental principles I believe in.
 Here are some developers who I found to be extremely polite and abundant in generosity. It speaks
 greatly of their character for some random and insignificant user to remember the kindness they showed.
 
-|                                                 |                                                 |                                                       |
-|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------------:|
+
+<center>
 | [bullshark](https://github.com/bullshark)       | [leo-arch](https://github.com/leo-arch)         | [mudler](https://github.com/mudler)                   |
 | [deepbluev7](https://github.com/deepbluev7)     | [kovidgoyal](https://github.com/kovidgoyal)     | [jcjgraf](https://github.com/jcjgraf)                 |
 | [ellisonleao](https://github.com/ellisonleao)   | [Iron-E](https://github.com/Iron-E)             | [samschott](https://github.com/samschott)             |
@@ -79,6 +79,7 @@ greatly of their character for some random and insignificant user to remember th
 | [n3mo](https://github.com/n3mo)                 | [alanhamlett](https://github.com/alanhamlett)   | [dgutov](https://github.com/dgutov)                   |
 | [williamboman](https://github.com/williamboman) | [m42e](https://github.com/m42e)                 | [RootK1d](https://github.com/Roo7K1d)                 |
 | [mrcnski](https://github.com/mrcnski)           | [glepnir](https://github.com/glepnir)           |                                                       |
+</center>
 
 
 -------------
