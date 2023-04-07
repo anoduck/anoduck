@@ -69,6 +69,9 @@ greatly of their character for some random and insignificant user to remember th
 
 
 <center>
+
+|                                                 |                                                 |                                                       |
+|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------------:|
 | [bullshark](https://github.com/bullshark)       | [leo-arch](https://github.com/leo-arch)         | [mudler](https://github.com/mudler)                   |
 | [deepbluev7](https://github.com/deepbluev7)     | [kovidgoyal](https://github.com/kovidgoyal)     | [jcjgraf](https://github.com/jcjgraf)                 |
 | [ellisonleao](https://github.com/ellisonleao)   | [Iron-E](https://github.com/Iron-E)             | [samschott](https://github.com/samschott)             |
