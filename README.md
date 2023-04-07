@@ -52,31 +52,34 @@ _As everything is in a state of impermanence, this too will change._
 
 Here are some developmental principles I believe in.
 
-- Pay for use Api-Keys prevent access to technology and thus technological innovation.
-- Discord is closed source and has a terrible reputation, use element instead.
-- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and others exist.
+- Pay for use API-Keys prevent access to technology and thus technological innovation.
+- Discord is closed source and has a terrible reputation, so don’t sue it. Choose element instead.
+- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd, and many others exist.
 - Avoid "Not my problem"-ism.
-- Injecting politics into computater science is exclusionary, restrains innovation, limits diversity.
+- Avoid making sarcastic remarks, especially in the written word, they do not compute.
+- Injecting politics into computer science is exclusionary, restrains innovation, limits diversity.
+
 
 ------------
 
 ### Awesome Developers
 
-Here are some developers who I found to be polite and generous.
+Here are some developers who I found to be extremely polite and abundant in generosity. It speaks
+greatly of their character for some random and insignificant user to remember the kindness they showed.
 
-- [leo-arch](https://github.com/leo-arch)
-- [mudler](https://github.com/mudler)
-- [bullshark](https://github.com/bullshark)
-- [kovidgoyal](https://github.com/kovidgoyal)
-- [deepbluev7](https://github.com/deepbluev7)
-- [jcjgraf](https://github.com/jcjgraf)
-- [graniet 75](https://github.com/graniet)
-- [ellisonleao](https://github.com/ellisonleao)
-- [Iron-E](https://github.com/Iron-E)
-- [samschott](https://github.com/samschott)
-- [mkeeter](https://github.com/mkeeter)
-- [shenwei356](https://github.com/shenwei356)
-- [gorbit99](https://github.com/gorbit99)
+|                                                 |                                                 |                                                       |
+|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------------:|
+| [bullshark](https://github.com/bullshark)       | [leo-arch](https://github.com/leo-arch)         | [mudler](https://github.com/mudler)                   |
+| [deepbluev7](https://github.com/deepbluev7)     | [kovidgoyal](https://github.com/kovidgoyal)     | [jcjgraf](https://github.com/jcjgraf)                 |
+| [ellisonleao](https://github.com/ellisonleao)   | [Iron-E](https://github.com/Iron-E)             | [samschott](https://github.com/samschott)             |
+| [mkeeter](https://github.com/mkeeter)           | [shenwei356](https://github.com/shenwei356)     | [gorbit99](https://github.com/gorbit99)               |
+| [PaulMcInnis](https://github.com/PaulMcInnis)   | [bastibe](https://github.com/bastibe)           | [unparalleled-js](https://github.com/unparalleled-js) |
+| [ray-x](https://github.com/ray-x)               | [jakewvincent](https://github.com/jakewvincent) | [xwmx](https://github.com/xwmx)                       |
+| [raxod502](https://github.com/raxod502)         | [ss-o](https://github.com/ss-o)                 | [yousefvand](https://github.com/yousefvand)           |
+| [n3mo](https://github.com/n3mo)                 | [alanhamlett](https://github.com/alanhamlett)   | [dgutov](https://github.com/dgutov)                   |
+| [williamboman](https://github.com/williamboman) | [m42e](https://github.com/m42e)                 | [RootK1d](https://github.com/Roo7K1d)                 |
+| [mrcnski](https://github.com/mrcnski)           | [glepnir](https://github.com/glepnir)           |                                                       |
+
 
 -------------
 
@@ -85,12 +88,14 @@ Here are some developers who I found to be polite and generous.
 Here are some projects I use in my daily life.
 
 - [Zsh](https://www.zsh.org/)
+- [Zshell](https://wiki.zshell.dev/)
 - [Kitty](https://sw.kovidgoyal.net/kitty)
 - [EMACS](https://www.gnu.org/software/emacs/)
 - [Helix](https://helix-editor.com/)
 - [NeoVim](https://neovim.io/)
 - [Straight.el](https://github.com/radian-software/straight.el)
 - [Org-Mode](https://orgmode.org)
+- [Org-Recur](https://github.com/mrcnski/org-recur)
 - [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh/)
 - [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 
