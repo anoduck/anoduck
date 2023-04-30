@@ -27,6 +27,8 @@ Other          44 hrs 10 mins  ████████████████�
 
 _As everything is in a state of impermanence, this too will change._
 
+_It is the smaller acts of kindness that uplift man’s soul, and help them live for another day._
+
 ------------
 
 ### What I do:
