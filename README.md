@@ -71,7 +71,7 @@ greatly of their character for some random and insignificant user to remember th
 
 <center>
 
-|                                                 |                                                 |                                                       |
+| Awesome                                         | Generous                                        | Developers                                            |
 |:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------------:|
 | [bullshark](https://github.com/bullshark)       | [leo-arch](https://github.com/leo-arch)         | [mudler](https://github.com/mudler)                   |
 | [deepbluev7](https://github.com/deepbluev7)     | [kovidgoyal](https://github.com/kovidgoyal)     | [jcjgraf](https://github.com/jcjgraf)                 |
@@ -82,7 +82,7 @@ greatly of their character for some random and insignificant user to remember th
 | [raxod502](https://github.com/raxod502)         | [ss-o](https://github.com/ss-o)                 | [yousefvand](https://github.com/yousefvand)           |
 | [n3mo](https://github.com/n3mo)                 | [alanhamlett](https://github.com/alanhamlett)   | [dgutov](https://github.com/dgutov)                   |
 | [williamboman](https://github.com/williamboman) | [m42e](https://github.com/m42e)                 | [RootK1d](https://github.com/Roo7K1d)                 |
-| [mrcnski](https://github.com/mrcnski)           | [glepnir](https://github.com/glepnir)           |                                                       |
+| [mrcnski](https://github.com/mrcnski)           | [glepnir](https://github.com/glepnir)           | [samschott](https://github.com/samschott)             |
 </center>
 
 
