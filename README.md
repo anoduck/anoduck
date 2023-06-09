@@ -8,7 +8,7 @@
 
 [![Anoduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoduck&show_icons=true&theme=radical)](https://github.com/anoduck)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact&theme=radical&hide=c,perl,css,makefile,m4,ruby,html&langs_count=7)](https://github.com/anoduck)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact&theme=radical&hide=c,perl,0makefile,m4,ruby&langs_count=7)](https://github.com/anoduck)
 
 
 <!--START_SECTION:waka-->
@@ -31,7 +31,7 @@ conf         59 mins         ▓░░░░░░░░░░░░░░░░
 
 _As everything is in a state of impermanence, this too will change._
 
-_It is the smaller acts of kindness that uplift man’s soul, and help them live for another day._
+_It is the smaller acts of kindness that uplift man’s soul, and help him to live for another day._
 
 ------------
 
@@ -83,6 +83,7 @@ greatly of their character for some random and insignificant user to remember th
 | [n3mo](https://github.com/n3mo)                 | [alanhamlett](https://github.com/alanhamlett)   | [dgutov](https://github.com/dgutov)                   |
 | [williamboman](https://github.com/williamboman) | [m42e](https://github.com/m42e)                 | [RootK1d](https://github.com/Roo7K1d)                 |
 | [mrcnski](https://github.com/mrcnski)           | [glepnir](https://github.com/glepnir)           | [samschott](https://github.com/samschott)             |
+| [KJ7LNW](https://github.com/KJ7LNW)             | ---                                             | ---                                                       |
 </center>
 
 
