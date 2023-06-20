@@ -33,6 +33,8 @@ _As everything is in a state of impermanence, this too will change._
 
 _It is the smaller acts of kindness that uplift man’s soul, and help him to live for another day._
 
+_Only the elite of humanity facilitate ASCII art thoroughly._
+
 ------------
 
 ### What I do:
