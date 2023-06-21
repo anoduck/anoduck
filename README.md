@@ -56,11 +56,12 @@ _Only the elite of humanity facilitate ASCII art thoroughly._
 Here are some developmental principles I believe in.
 
 - Pay for use API-Keys prevent access to technology and thus technological innovation.
-- Discord is closed source and has a terrible reputation, so don’t sue it. Choose element instead.
-- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd, and many others exist.
+- Discord has a notorious reputation and is closed source, so don’t use it. Choose element instead.
+- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and others exist.
 - Avoid "Not my problem"-ism.
-- Avoid making sarcastic remarks, especially in the written word, they do not compute.
-- Injecting politics into computer science is exclusionary, restrains innovation, limits diversity.
+- Injecting politics into computer science is exclusionary, restrains innovation, and limits diversity.
+- Forcing one's politics on other developers by mandating so via a project's code of conduct is abusive,
+  totalitarian, and authoritarian. Project developers are software developers, not techno-dictators.
 
 
 ------------
