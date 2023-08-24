@@ -2,7 +2,7 @@
 
 ## :duck::duck: Anoduck: The Anonymous Duck :duck::duck:
 
-:stars:*I support freedom of speech, and the free exchange of ideas within the marketplace of one's mind.*:stars:
+:stars: >|< *I support freedom of speech, and the free exchange of ideas within the marketplace of one's mind.* >|< :stars:
 
 ----------
 
@@ -33,7 +33,7 @@ _As everything is in a state of impermanence, this too will change._
 
 _It is the smaller acts of kindness that uplift man’s soul, and help him to live for another day._
 
-_Only the elite of humanity facilitate ASCII art thoroughly._
+_Only the elite of humanity use ASCII art thoroughly._
 
 ------------
 
@@ -59,10 +59,14 @@ Here are some developmental principles I believe in.
 - Discord has a notorious reputation and is closed source, so don’t use it. Choose element instead.
 - Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and others exist.
 - Avoid "Not my problem"-ism.
-- Injecting politics into computer science is exclusionary, restrains innovation, and limits diversity.
-- Forcing one's politics on other developers by mandating so via a project's code of conduct is abusive,
-  totalitarian, and authoritarian. Project developers are software developers, not techno-dictators.
+- Do not be foolish enough to assume everyone runs an nvidia processor and desires to have access to cuda.
 
+#### Politics and Computer Science
+
+- Injecting politics into computer science is exclusionary, restrains innovation, and limits diversity.
+- Forcing one's politics on users by incorporating political precepts into a project's code of conduct
+  exemplifies an abuse of trust, a desire to stifle diversity of thought, and a willingness to disregard
+  the rights of others.
 
 ------------
 
