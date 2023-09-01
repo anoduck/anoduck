@@ -60,6 +60,7 @@ Here are some developmental principles I believe in.
 - Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and others exist.
 - Avoid "Not my problem"-ism.
 - Do not be foolish enough to assume everyone runs an nvidia processor and desires to have access to cuda.
+- Be loyal to that which supports you. 
 
 #### Politics and Computer Science
 
