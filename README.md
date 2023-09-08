@@ -91,7 +91,7 @@ greatly of their character for some random and insignificant user to remember th
 | [n3mo](https://github.com/n3mo)                 | [alanhamlett](https://github.com/alanhamlett)   | [dgutov](https://github.com/dgutov)                   |
 | [williamboman](https://github.com/williamboman) | [m42e](https://github.com/m42e)                 | [RootK1d](https://github.com/Roo7K1d)                 |
 | [mrcnski](https://github.com/mrcnski)           | [glepnir](https://github.com/glepnir)           | [samschott](https://github.com/samschott)             |
-| [KJ7LNW](https://github.com/KJ7LNW)             | ---                                             | ---                                                       |
+| [KJ7LNW](https://github.com/KJ7LNW)             | [akiyosi](https://github.com/akiyosi)           | [folke](https://github.com/folke)                     |
 </center>
 
 
