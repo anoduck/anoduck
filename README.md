@@ -6,6 +6,12 @@
 
 ----------
 
+### Unpopular Opinion / Rant:
+
+__I don't think there is anything more tasteless than attempting phishing attacks on unsuspecting newbs on github. Seriously, grow up.__ 
+
+----------
+
 [![Anoduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoduck&show_icons=true&theme=radical)](https://github.com/anoduck)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact&theme=radical&hide=c,perl,0makefile,m4,ruby&langs_count=7)](https://github.com/anoduck)
@@ -26,14 +32,6 @@ YAML         2 hrs 44 mins   █▒░░░░░░░░░░░░░░░
 ------------
 
 :point_right::point_right::point_right::point_right: **You can chat with me in [Discussions](https://github.com/anoduck/anoduck/discussions)** :point_left::point_left::point_left::point_left:
-
-------------
-
-_As everything is in a state of impermanence, this too will change._
-
-_It is the smaller acts of kindness that uplift man’s soul, and help him to live for another day._
-
-_Only the elite of humanity use ASCII art thoroughly._
 
 ------------
 
