@@ -20,11 +20,11 @@ __I don't think there is anything more tasteless than attempting phishing attack
 <!--START_SECTION:waka-->
 
 ```txt
-Other        38 hrs 50 mins  ████████████████▒░░░░░░░░   65.88 %
-sh           7 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-Python       5 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Markdown     3 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Bash         2 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Other        42 hrs 17 mins  █████████████████▓░░░░░░░   70.56 %
+sh           6 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Markdown     3 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Bash         3 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Python       2 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
