@@ -6,12 +6,6 @@
 
 ----------
 
-### Unpopular Opinion / Rant:
-
-__I don't think there is anything more tasteless than attempting phishing attacks on unsuspecting newbs on github. Seriously, grow up.__ 
-
-----------
-
 [![Anoduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoduck&show_icons=true&theme=radical)](https://github.com/anoduck)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact&theme=radical&hide=c,perl,0makefile,m4,ruby&langs_count=7)](https://github.com/anoduck)
@@ -46,26 +40,6 @@ HTML         2 hrs 26 mins   ▓░░░░░░░░░░░░░░░░
 - :blowfish: OpenBSD
 - :penguin: Linux
 - :deciduous_tree: Agricultural Technology
-
-------------
-
-### Developmental Principles
-
-Here are some developmental principles I believe in.
-
-- Pay for use API-Keys prevent access to technology and thus technological innovation.
-- Discord has a notorious reputation and is closed source, so don’t use it. Choose element instead.
-- Linux Elitism is in poor taste. Linux is just one of many. UNIX, BSD, Haiku, Hurd and others exist.
-- Avoid "Not my problem"-ism.
-- Do not be foolish enough to assume everyone runs an nvidia processor and desires to have access to cuda.
-- Be loyal to that which supports you. 
-
-#### Politics and Computer Science
-
-- Injecting politics into computer science is exclusionary, restrains innovation, and limits diversity.
-- Forcing one's politics on users by incorporating political precepts into a project's code of conduct
-  exemplifies an abuse of trust, a desire to stifle diversity of thought, and a willingness to disregard
-  the rights of others.
 
 ------------
 
