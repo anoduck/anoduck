@@ -6,6 +6,10 @@
 
 ----------
 
+Why is there not a terminal program to display a collection of keybinds? Something similar to cheat.sh but for keybinds? Why does this not exist?
+
+---------
+
 [![Anoduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoduck&show_icons=true&theme=radical)](https://github.com/anoduck)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoduck&layout=compact&theme=radical&hide=c,perl,0makefile,m4,ruby&langs_count=7)](https://github.com/anoduck)
