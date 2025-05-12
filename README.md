@@ -18,11 +18,11 @@ Why is there not a terminal program to display a collection of keybinds? Somethi
 <!--START_SECTION:waka-->
 
 ```txt
-Other        33 hrs 15 mins  ███████████████░░░░░░░░░░   60.17 %
-Bash         4 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-sh           2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-JSON         2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Markdown     2 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Other        31 hrs 29 mins  ██████████████▓░░░░░░░░░░   59.15 %
+Bash         3 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Markdown     3 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Lua          3 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JSON         3 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
 ```
 
 <!--END_SECTION:waka-->
