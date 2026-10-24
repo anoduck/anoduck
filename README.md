@@ -18,7 +18,9 @@ Why is there not a terminal program to display a collection of keybinds? Somethi
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        4 hrs 3 mins          ██████████████████████░░░   87.61 %
+sh           23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Emacs Lisp   11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
